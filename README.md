@@ -57,7 +57,3 @@ I have also deployed it as a chatbot interface using `Lovable AI` and thus pleas
 ├── requirements.txt
 └── README.md
 ```
-
-## License
-
-This project is licensed under the MIT License.
