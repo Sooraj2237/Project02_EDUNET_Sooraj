@@ -47,6 +47,12 @@ I have also deployed it as a chatbot interface using `Lovable AI` and thus pleas
 
 ```
 .
+├── DataSet
+    ├── Tomato Early Blight
+    ├── Tomato Late Blight
+    ├── Tomato Septoria Leaf Spot
+    ├── Tomato Leaf Mold
+    └── Tomato Healthy
 ├── crop-disease-detection.py
 ├── requirements.txt
 └── README.md
